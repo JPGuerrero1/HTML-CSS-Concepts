@@ -1,0 +1,13 @@
+* {background-color:rgb(255, 140, 163);}
+
+#click {
+    background-color:white;
+    color:red;
+    position:relative;
+    top:380px;
+    left:820px;
+    font-size:50px;
+    border-radius:20px;
+    border-width:10px;
+    border-color:red;
+}
