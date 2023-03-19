@@ -10,6 +10,8 @@ It is done when I have created a button element titled 'Click me!'.
 
 It is done when I have created a function to paste a heart sticker png in random places each time the button is clicked.
 
+It is done when i have created a button to clear the page of pasted images.
+
 It is done when I have styled the webpage and buttons using CSS elements.
 
 It is done when the finished webpage is uploaded to the github repository.
