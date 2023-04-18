@@ -1,13 +1,20 @@
 * {background-color:rgb(255, 140, 163);}
 
 #click {
-    background-color:white;
-    color:red;
-    position:relative;
-    top:380px;
-    left:820px;
+    text-align:center;
+}
+
+#click button{
+    background-color:rgba(180, 115, 255, 0.644);
+    color:rgb(156, 235, 255);
     font-size:50px;
     border-radius:20px;
-    border-width:10px;
-    border-color:red;
+    border:10px solid rgb(118, 41, 219);
+    font-family:monospace; 
+}
+
+#click button:hover {
+    color:rgb(118, 41, 219);
+    background-color:rgba(120, 215, 253, 0.651);
+    border-color:rgb(51, 228, 228);
 }
